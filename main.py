@@ -31,7 +31,7 @@ def tick():
 ###################################################################################
 
 def contact():
-    mess._show(title='Contact us', message="Please contact us on : 'akash.mittal898@gmail.com' ")
+    mess._show(title='Contact us', message="Please contact us on : 'agupta844@gmail.com' ")
 
 ###################################################################################
 
